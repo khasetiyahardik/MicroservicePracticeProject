@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      import: http://localhost:8088
